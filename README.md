@@ -1,10 +1,8 @@
 # ProjetoJava__CCP-SENAI
 Projeto em java feito para gestão de um pizzaria feito em JAVA, do curso de desenvolvimento CCP Santa Ursula/SENAI
 
-_
-========================
-# BUILD OUTPUT DESCRIPTION
-========================
+
+## BUILD OUTPUT DESCRIPTION
 
 When you build an Java application project that has a main class, the IDE
 automatically copies all of the JAR
