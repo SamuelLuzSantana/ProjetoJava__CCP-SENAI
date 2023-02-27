@@ -4,6 +4,7 @@ Projeto em java feito para gestão de um pizzaria feito em JAVA, do curso de des
 
 
 <br/>
+
 ## BUILD OUTPUT DESCRIPTION
 
 When you build an Java application project that has a main class, the IDE
